@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "NASA APOD",
+    "version": "1.0.0",
+    "description": "NASA APOD replaces your new tab page.",
+    "chrome_url_overrides" : {
+        "newtab": "apod.html"
+      }
+  }
